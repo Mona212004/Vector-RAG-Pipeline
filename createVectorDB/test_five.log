@@ -1,0 +1,14 @@
+Detected 1 MPS devices: Apple silicon GPU
+Successfully generated vector embeddings for 2 user queries.
+
+Shape of generated query embeddings : (2, 768).
+Start_time: 1760628529.2463622
+--- Results for Query: 'Give me movies with action genres.' ---
+('tt28751601', 'Action!', 'movie', 'Item Id: tt28751601 is a movie. Its primary title is Action!, its original title is Action!. Its genres are Thriller. Its duration is  long, and has an average rating of 3.0. ')
+('tt24133834', 'Rapid Action', 'movie', 'Item Id: tt24133834 is a movie. Its primary title is Rapid Action, its original title is Rapid Action. Its genres are Action,Drama. Its duration is  long, and has an average rating of 4.8. ')
+('tt32161271', 'No More Awesome Action Movies', 'movie', 'Item Id: tt32161271 is a movie. Its primary title is No More Awesome Action Movies, its original title is No More Awesome Action Movies. Its genres are Action,Comedy. Its duration is  long, and has an average rating of 6.9. ')
+--- Results for Query: 'Give korean movies with highest ratings.' ---
+('tt6450160', 'Korea 1%', 'movie', 'Item Id: tt6450160 is a movie. Its primary title is Korea 1%, its original title is Korea 1%. Its genres are . Its duration is  long, and has an average rating of 6.9. ')
+('tt32915896', 'K-Rising Stars', 'movie', 'Item Id: tt32915896 is a movie. Its primary title is K-Rising Stars, its original title is K-Rising Stars. Its genres are Drama. Its duration is  long, and has an average rating of 9.0. ')
+('tt3894628', 'Korea', 'movie', 'Item Id: tt3894628 is a movie. Its primary title is Korea, its original title is Korea. Its genres are Drama. Its duration is  long, and has an average rating of 6.9. ')
+Execution time: --- 2.1379477977752686 seconds ---
